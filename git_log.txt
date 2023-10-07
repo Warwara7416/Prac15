@@ -1,0 +1,29 @@
+git log
+commit 43e08e6b66849cfe2a95a8cd88e24a394362447c (HEAD -> main)
+commit 43e08e6b66849cfe2a95a8cd88e24a394362447c (HEAD -> main)
+Author: Warwara <pavel.002@mail.ru>
+Date:   Sat Oct 7 16:46:37 2023 +0500
+
+    first_file change
+
+commit c33ac0e97b29149d06d9312a5fadf0c1097721dd (origin/main)
+Author: Warwara <pavel.002@mail.ru>
+Date:   Sat Oct 7 16:44:33 2023 +0500
+
+    ignore
+
+commit 916b671f064b00ca716925e65912b099375eb6fc
+Author: Warwara <pavel.002@mail.ru>
+Date:   Sat Oct 7 16:38:03 2023 +0500
+
+    Second
+
+commit 56b59355f24f6f09470cabcda8a52bca6ec95fba
+Author: Warwara <pavel.002@mail.ru>
+Date:   Sat Oct 7 16:36:04 2023 +0500
+
+    first commit
+
+commit 2b86247b4ffb0f49c79a4f416cbc2e9fe9a37d2c
+Author: Warwara <pavel.002@mail.ru>
+Date:   Sat Oct 7 16:34:08 2023 +0500
